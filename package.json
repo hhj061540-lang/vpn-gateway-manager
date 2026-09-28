@@ -1,0 +1,16 @@
+{
+  "name": "vpn-gateway-manager",
+  "version": "1.0.0",
+  "description": "VPN Gateway Manager API server with country list and VPN simulation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  }
+}
